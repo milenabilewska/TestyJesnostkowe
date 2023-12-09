@@ -1,5 +1,6 @@
-package com.example;
+package com.example.Osoba;
 
+import com.example.Osoba.Osoba;
 import org.junit.Assert;
 import org.junit.Test;
 

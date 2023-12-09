@@ -1,4 +1,4 @@
-package com.example;
+package com.example.PolaFigur;
 
 public class Rectangle {
 

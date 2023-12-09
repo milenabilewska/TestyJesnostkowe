@@ -1,5 +1,6 @@
-package com.example;
+package com.example.Kalkulator;
 
+import com.example.Kalkulator.Calculator;
 import org.junit.Assert;
 import org.junit.Test;
 
